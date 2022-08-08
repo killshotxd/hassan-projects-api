@@ -5,7 +5,7 @@
     "image": "https://hassanreport.netlify.app/Tours%20Setup.c321b7cf.png",
     "description": "A Tour Guide project created in React which fetches data from API. The API is created using express js, cors and is hosted on heroku. Fully responsive and animated.🚀",
     "Link": "https://react-touron-guide.netlify.app/",
-    "source": "https://github.com/killshotxd/React-Modern-QuizzApp"
+    "source": "https://github.com/killshotxd/react-tours-project"
   },
   {
     "id": 2,
