@@ -4,35 +4,40 @@
     "title": "Tour Locator React App",
     "image": "https://hassanreport.netlify.app/Tours%20Setup.c321b7cf.png",
     "description": "A Tour Guide project created in React which fetches data from API. The API is created using express js, cors and is hosted on heroku. Fully responsive and animated.🚀",
-    "Link": "https://react-touron-guide.netlify.app/"
+    "Link": "https://react-touron-guide.netlify.app/",
+    "source": "https://github.com/killshotxd/React-Modern-QuizzApp"
   },
   {
     "id": 2,
     "title": "React Modern Quiz App (Quizzer)",
     "image": "https://hassanreport.netlify.app/Modern%20Quiz%20_%20Quizzer.1b714137.png",
     "description": "A Modern Animated Single Page Quiz App made with ReactJs and is fully responsive 🚀.",
-    "Link": "https://react-modern-quizz-app.vercel.app/"
+    "Link": "https://react-modern-quizz-app.vercel.app/",
+    "source": "https://github.com/killshotxd/React-Modern-QuizzApp"
   },
   {
     "id": 3,
     "title": "Portfolio Website with HTML,CSS and JS",
     "image": "https://hassanreport.netlify.app/project0.0807a141.png",
     "description": "Smooth Scrolling modern responsive portfolio website made with Html, Css and Js❤.",
-    "Link": "https://imranportfo.netlify.app/"
+    "Link": "https://imranportfo.netlify.app/",
+    "source": "https://github.com/killshotxd/Imran-PortFolio-2022-v2"
   },
   {
     "id": 4,
     "title": "Minimal YouTube Clone Website with HTML,CSS and JS",
     "image": "https://hassanreport.netlify.app/Youtube%20Clone.333952b8.png",
     "description": "Smooth Scrolling responsive Minimal YouTube Clone Website made with Html, Css and Js❤.",
-    "Link": "https://cloneofyt.netlify.app/"
+    "Link": "https://cloneofyt.netlify.app/",
+    "source": "https://github.com/killshotxd/Youtube-Clone"
   },
   {
     "id": 5,
     "title": "Movies Sypnosis App(TMDB API)",
     "image": "https://hassanreport.netlify.app/project5.cc0990e1.png",
     "description": "Which movies to watch? get suggestions with plot sypnosis 🥰 An app made with HTML CSS JS with TMDB API.",
-    "Link": "https://tmdbsypnosis.netlify.app/"
+    "Link": "https://tmdbsypnosis.netlify.app/",
+    "source": "https://github.com/killshotxd/Movie-Sypnosis-with-TMDB-API"
   },
 
   {
@@ -40,6 +45,7 @@
     "title": "Simple JavaScript Bot",
     "image": "https://hassanreport.netlify.app/project2.87234844.png",
     "description": "JavaScript chat bot 😉 . Made with HTML, CSS, JS and JQuery😁❤..",
-    "Link": "https://simplejsbot.netlify.app/"
+    "Link": "https://simplejsbot.netlify.app/",
+    "source": "https://github.com/killshotxd/Simple-JS-Bot"
   }
 ]
