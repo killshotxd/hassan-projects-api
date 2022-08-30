@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "title": "Tour Locator React App",
-    "image": "https://hassanreport.netlify.app/Tours%20Setup.c321b7cf.png",
-    "description": "A Tour Guide project created in React which fetches data from API. The API is created using express js, cors and is hosted on heroku. Fully responsive and animated.🚀",
-    "Link": "https://react-touron-guide.netlify.app/",
-    "source": "https://github.com/killshotxd/react-tours-project"
+    "title": "React Project Manager",
+    "image": "https://hassanreport.netlify.app/Projects%20Manager.debfef1d.png",
+    "description": "Project Manager is an App where anyone can Upload and share their Projects and Showcase it. This App uses Firebase Signup, Login, Storage, Database, Hosting API for storing and fetching project data. Supports Search for projects. Uses various libraries such as : Chakra-UI, Framer-Motion and AOS.🚀",
+    "Link": "https://projectfairauth.web.app/",
+    "source": "https://github.com/killshotxd/Project-Manager"
   },
   {
     "id": 2,
@@ -15,8 +15,18 @@
     "Link": "https://react-modern-quizz-app.vercel.app/",
     "source": "https://github.com/killshotxd/React-Modern-QuizzApp"
   },
+
   {
     "id": 3,
+    "title": "React Music Player",
+    "image": "https://hassanreport.netlify.app/React-music.d09341a2.png",
+    "description": "A simple React Music Player with beautiful UI uses AOS animation song fetches from Jio saavn API v3 URL.🚀",
+    "Link": "https://react-music-taupe.vercel.app/",
+    "source": "https://github.com/killshotxd/React-Music"
+  },
+
+  {
+    "id": 4,
     "title": "Portfolio Website with HTML,CSS and JS",
     "image": "https://hassanreport.netlify.app/project0.0807a141.png",
     "description": "Smooth Scrolling modern responsive portfolio website made with Html, Css and Js❤.",
@@ -24,7 +34,7 @@
     "source": "https://github.com/killshotxd/Imran-PortFolio-2022-v2"
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "Minimal YouTube Clone Website with HTML,CSS and JS",
     "image": "https://hassanreport.netlify.app/Youtube%20Clone.333952b8.png",
     "description": "Smooth Scrolling responsive Minimal YouTube Clone Website made with Html, Css and Js❤.",
@@ -32,7 +42,7 @@
     "source": "https://github.com/killshotxd/Youtube-Clone"
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "Movies Sypnosis App(TMDB API)",
     "image": "https://hassanreport.netlify.app/project5.cc0990e1.png",
     "description": "Which movies to watch? get suggestions with plot sypnosis 🥰 An app made with HTML CSS JS with TMDB API.",
@@ -41,7 +51,7 @@
   },
 
   {
-    "id": 6,
+    "id": 7,
     "title": "Simple JavaScript Bot",
     "image": "https://hassanreport.netlify.app/project2.87234844.png",
     "description": "JavaScript chat bot 😉 . Made with HTML, CSS, JS and JQuery😁❤..",
